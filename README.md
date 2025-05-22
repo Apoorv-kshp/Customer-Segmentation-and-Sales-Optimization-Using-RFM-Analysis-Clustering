@@ -56,6 +56,4 @@ Identified 4 key customer groups with tailored marketing recommendations:
 
 MIT License
 
-## 🙋‍♂️ Contact
 
-For questions, contact [yourname@example.com]
